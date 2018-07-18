@@ -1,2 +1,2 @@
-# nicknits.github.io
+# volandosinalas.github.io/nicknits
 Knitwear design
