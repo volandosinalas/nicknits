@@ -9,6 +9,10 @@ body {
     font-family: helvetica;
 }
 
+nav {
+    position: fixed;
+}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -44,9 +48,9 @@ p {
     font-size: 15px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 1.4em;
+    color: black;
     background-color: white; 
     padding: 10px;
-    width: 100px;
 }
 
 ul.posts {
