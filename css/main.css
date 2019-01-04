@@ -9,11 +9,6 @@ body {
     font-family: helvetica;
 }
 
-nav {
-    position: fixed;
-    text-align: center;
-}
-
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
