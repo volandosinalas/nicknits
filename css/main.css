@@ -42,6 +42,7 @@ h1 {
     background-color: white;
     padding: 10px;
     width: 100px;
+    float: left;
 }
 
 p {
@@ -51,6 +52,10 @@ p {
     color: black;
     background-color: white; 
     padding: 10px;
+}
+
+#right {
+    float: right;
 }
 
 ul.posts {
