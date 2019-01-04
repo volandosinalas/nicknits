@@ -11,6 +11,7 @@ body {
 
 nav {
     position: fixed;
+    text-align: center;
 }
 
 nav ul, footer ul {
